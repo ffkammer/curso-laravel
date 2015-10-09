@@ -1,0 +1,746 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"formata",
+				"formatar_telefone"
+			],
+			[
+				"id",
+				"idcon"
+			],
+			[
+				"nume",
+				"numerodiscar"
+			],
+			[
+				"respon",
+				"response_array"
+			],
+			[
+				"d",
+				"div	Tag"
+			],
+			[
+				"val",
+				"valor"
+			],
+			[
+				"edtTelef",
+				"edtTelefone"
+			],
+			[
+				"edtTele",
+				"edtTelefone2"
+			],
+			[
+				"data",
+				"dataType"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"portas",
+				"portasaux"
+			],
+			[
+				"prota",
+				"portasaux"
+			],
+			[
+				"bakc",
+				"background-color"
+			],
+			[
+				"backgoun",
+				"background-color"
+			],
+			[
+				"edtNome",
+				"edtNomeClieAux"
+			],
+			[
+				"Blo",
+				"Bloqueio"
+			],
+			[
+				"porta",
+				"portasusadas"
+			],
+			[
+				"dlg",
+				"dlgGenerico"
+			],
+			[
+				"reg",
+				"regap"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"bytes",
+				"bytes_in"
+			],
+			[
+				"jsc",
+				"json_encode"
+			],
+			[
+				"oid_bytes",
+				"oid_bytes_in"
+			],
+			[
+				"snmp",
+				"snmprealwalk"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"oid_by",
+				"oid_bytes_in"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"hid",
+				"hide"
+			],
+			[
+				"flash",
+				"flashMessage"
+			],
+			[
+				"unse",
+				"unset"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"not",
+				"notEmpty"
+			],
+			[
+				"modifie",
+				"modified_by"
+			],
+			[
+				"created",
+				"created_by"
+			],
+			[
+				"before",
+				"beforeFilter"
+			],
+			[
+				"debu",
+				"debug"
+			],
+			[
+				"deb",
+				"debug"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"s",
+				"span	Tag"
+			],
+			[
+				"menu",
+				"menu_final"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"m",
+				"menu_tmp"
+			],
+			[
+				"last",
+				"last"
+			],
+			[
+				"las",
+				"lastFocus"
+			],
+			[
+				"btn",
+				"btn-primary"
+			],
+			[
+				"sam",
+				"small	Tag"
+			],
+			[
+				"sub",
+				"submit"
+			],
+			[
+				"con",
+				"conditions"
+			],
+			[
+				"input",
+				"input-sm"
+			],
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
+				"bt",
+				"btn-danger"
+			],
+			[
+				"btn-",
+				"btn-primary"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"$ta",
+				"$tableRows"
+			],
+			[
+				"arra",
+				"array"
+			],
+			[
+				"he",
+				"header	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"idne",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pair",
+				"Emmet: Go to Matching Pair"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"gist",
+				"Gist: Open Gist"
+			],
+			[
+				"fetch",
+				"Fetch: Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/kammer/Documents/Sites/central.neolink.com.br/painel.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravel/resources/views/central.blade.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravel/resources/views/layouts/central.blade.php",
+		"/Users/kammer/Documents/Sites/central.neolink.com.br/index.html",
+		"/Users/kammer/Documents/Sites/central.neolink.com.br/boleto/index.php",
+		"/Users/kammer/Documents/Sites/Boleto - ABCS/index.php",
+		"/Users/kammer/Documents/Sites/central.neolink.com.br/boleto/index.html",
+		"/Users/kammer/Documents/Sites/central.neolink.com.br/js/functions.js",
+		"/Users/kammer/Documents/Sites/central.neolink.com.br/js/flot-charts/grafico-consumo.js",
+		"/Users/kammer/Documents/Sites/central.neolink.com.br/js/flot-charts/curved-line-chart.js",
+		"/Users/kammer/Documents/Sites/central.neolink.com.br/css/app.min.1.css",
+		"/Users/kammer/Documents/Sites/central.neolink.com.br/js/demo.js",
+		"/Users/kammer/Documents/Sites/central.neolink.com.br/login.html",
+		"/Users/kammer/Documents/Sites/Central Assinante/index.html",
+		"/Users/kammer/Documents/Sites/Central Assinante/css/app.min.1.css",
+		"/Users/kammer/Documents/Sites/Central Assinante/js/functions.js",
+		"/Users/kammer/Documents/Sites/Central Assinante/css/app.min.2.css",
+		"/Users/kammer/Documents/Sites/Central Assinante/js/charts.js",
+		"/Users/kammer/Documents/Sites/cad/cad - Debian/paginas/funcoes.php",
+		"/Users/kammer/Documents/Sites/cad/cad - Debian/paginas/menu_ini.php",
+		"/Users/kammer/Documents/Sites/cad/cad - Debian/paginas/scripts_ajax/filtra_ip.php",
+		"/Users/kammer/Documents/Sites/cad/cad - Debian/paginas/rel_ip.php",
+		"/Users/kammer/Documents/Sites/cad/cad - Debian/paginas/menu/menu.js",
+		"/Users/kammer/Documents/Sites/laravel/resources/views/includes/header.blade.php",
+		"/Users/kammer/Documents/Sites/neolink novo/multi-free-responsive-onepage-html-template-2/index.html",
+		"/Users/kammer/Documents/Sites/neolink/index.php",
+		"/Users/kammer/Documents/Sites/laravel/resources/views/dashboard.blade.php",
+		"/Users/kammer/Documents/Sites/laravel/resources/views/admin.blade.php",
+		"/Users/kammer/Documents/Sites/laravel/starter.html",
+		"/Users/kammer/Documents/Sites/neolink novo/multi-free-responsive-onepage-html-template-2/css/main.css",
+		"/Users/kammer/Documents/Sites/laravel/resources/views/welcome.blade.php",
+		"/Users/kammer/Documents/Sites/laravel/resources/views/includes/controlsidebar.blade.php",
+		"/Users/kammer/Documents/Sites/laravel/resources/views/includes/footer.blade.php",
+		"/Users/kammer/Documents/Sites/laravel/resources/views/includes/sidebar.blade.php",
+		"/Users/kammer/Documents/Sites/neolink novo/multi-free-responsive-onepage-html-template-2/css/owl.carousel.css",
+		"/Users/kammer/Documents/Sites/neolink novo/multi-free-responsive-onepage-html-template-2/css/bootstrap.min.css",
+		"/Users/kammer/Documents/Sites/neolink novo/multi-free-responsive-onepage-html-template-2/css/responsive.css",
+		"/Users/kammer/Documents/Sites/neolink novo/multi-free-responsive-onepage-html-template-2/boleto/index.php",
+		"/Users/kammer/Downloads/index.html",
+		"/Users/kammer/Documents/Sites/novocad - html5/config/config.php",
+		"/Users/kammer/Documents/Sites/neolink/paginas/medidor.php",
+		"/Users/kammer/Documents/Sites/neolink/speedtest/js/speedtest.js",
+		"/Users/kammer/Documents/Sites/cad/cad - Debian/bw/instalador/public/css/main.css",
+		"/Users/kammer/Documents/Sites/cad/cad - Debian/bw/instalador/public/js/app.js",
+		"/Users/kammer/Documents/Sites/cad/cad - Debian/bw/instalador/public/index.php",
+		"/Users/kammer/Documents/Sites/neolink/velocidade/speedtest/index.php",
+		"/Users/kammer/Documents/Sites/neolink/velocidade/speedtest/js/speedtest.js",
+		"/Users/kammer/Documents/Sites/neolink/style.css",
+		"/Users/kammer/Documents/Sites/neolink/css/screen.css",
+		"/Users/kammer/Documents/Sites/neolink/css/css3.css",
+		"/Users/kammer/Documents/Sites/neolink/velocidade/speedtest/crossdomain.xml",
+		"/Users/kammer/Downloads/mini/index-php.html",
+		"/Users/kammer/Downloads/Teste banda futuro net/Testar Velocidade da Internet - Futuronet - Internet Banda Larga.html",
+		"/Users/kammer/Library/Mail/V2/MailData/Signatures/B9CE569A-A959-4B80-B1D1-5AF1CBB55649.mailsignature",
+		"/Users/kammer/Library/Mail/V2/MailData/Signatures/267837E9-1AAB-4252-BE68-AC47F96485F9.mailsignature",
+		"/Users/kammer/Downloads/ass_email.html",
+		"/Users/kammer/Library/Mail/V2/MailData/Signatures/1171C1FA-5412-47E3-A281-4402143A24E3.mailsignature",
+		"/Users/kammer/Library/Mail/V2/MailData/Signatures/18F4F8FB-A1BC-48A7-93D0-77E4B2007063.mailsignature",
+		"/Users/kammer/Documents/Sites/neolink/boleto_old/index.php",
+		"/Users/kammer/Documents/Sites/neolink/boleto/index.php",
+		"/Users/kammer/Documents/Sites/neolink/boleto/boleto_bancoob.php",
+		"/Users/kammer/Documents/Sites/neolink/boleto/include/funcoes_bancoob.php",
+		"/Users/kammer/Documents/Sites/abcs/boleto/index.php",
+		"/Users/kammer/Documents/Sites/cad/paginas/relclie_esp.php",
+		"/Users/kammer/Documents/Sites/cad/paginas/cli_func.php",
+		"/Users/kammer/Documents/Sites/cad/paginas/rel_os.php",
+		"/Users/kammer/Documents/Sites/cad/paginas/scripts_ajax/filtra_os.php",
+		"/Users/kammer/Documents/Sites/cad/manuais/index.html",
+		"/Users/kammer/Documents/Sites/cad/paginas/cli_cadtab.php",
+		"/Users/kammer/Documents/Sites/cad/paginas/ligar.php",
+		"/Users/kammer/Documents/Sites/cad/index.php",
+		"/Users/kammer/Documents/Sites/cad/login.php",
+		"/Users/kammer/Documents/Sites/cad/paginas/scripts_ajax/acesso_portasap.php",
+		"/Users/kammer/Documents/Sites/cad/paginas/funcoes.php",
+		"/Users/kammer/Documents/Sites/cad/paginas/cli_osobs.php",
+		"/Users/kammer/Documents/Sites/cad/paginas/cli_cadfrm.php",
+		"/Users/kammer/Documents/Sites/cad/paginas/cli_osfrm.php",
+		"/Users/kammer/Documents/Sites/cad/paginas/cli_os.php",
+		"/Users/kammer/Downloads/ligar.php",
+		"/Users/kammer/Documents/Sites/cad/paginas/upclieaux.php",
+		"/Users/kammer/Documents/Sites/cad/paginas/cli_acesso.php",
+		"/Users/kammer/Documents/Sites/cad/paginas/scripts_ajax/acesso_radios.php",
+		"/Users/kammer/Documents/Sites/cad/paginas/cli_cadfrm_copia_backup.php",
+		"/Users/kammer/Documents/Sites/cad/paginas/esqueleto.php",
+		"/Users/kammer/Documents/Sites/cad/paginas/scripts_ajax/acesso_ativa.php",
+		"/Users/kammer/Documents/Sites/cad/paginas/scripts_ajax/acesso_dadosap.php",
+		"/Users/kammer/Documents/Sites/cad/paginas/scripts_ajax/acesso_block.php",
+		"/Users/kammer/Documents/Sites/cad/paginas/scripts_ajax/acesso_dados.php",
+		"/Users/kammer/Documents/Sites/cad/paginas/scripts_ajax/acesso_dados1.php",
+		"/Users/kammer/Documents/Sites/cad/paginas/cli_acesso_novo.php",
+		"/Users/kammer/Documents/Sites/cad/paginas/scripts_ajax/cli_acessofunc.php",
+		"/Users/kammer/Documents/Sites/cad/CAD_Atual.sublime-project",
+		"/Users/kammer/Documents/Sites/cad/paginas/radius.php",
+		"/Users/kammer/Documents/Sites/cad/paginas/cli_acessos.php",
+		"/Users/kammer/Documents/Sites/cad/paginas/extrato.php",
+		"/Users/kammer/Documents/Sites/cad/paginas/ip_cadfrm_novo.php",
+		"/Users/kammer/Documents/Sites/cad/paginas/ip_cadfrm.php",
+		"/Users/kammer/Documents/Sites/cad/paginas/graf_concentradores.php",
+		"/Users/kammer/Documents/Sites/cad/paginas/rel_os_tipotot_semajax.php",
+		"/Users/kammer/Documents/Sites/cad/paginas/rel_os_tipotot.php",
+		"/Users/kammer/Documents/Sites/cad/paginas/scripts_ajax/rel_os_tipotot1_dados.php",
+		"/Users/kammer/Documents/Sites/cad/paginas/rel_os_tipotot2.php",
+		"/Users/kammer/Documents/Sites/cad/paginas/menu_ini.php",
+		"/Users/kammer/Documents/Sites/cad/paginas/graf_concentradors.php",
+		"/Users/kammer/Documents/Sites/cad/paginas/scripts_ajax/rel_os_tipoostot.php",
+		"/Users/kammer/Documents/Sites/cad/CAD",
+		"/Controle de Banda Franquias",
+		"/Users/kammer/Downloads/Arquivos Bruno/10.99.99.8",
+		"/Users/kammer/Downloads/Arquivos Bruno/10.99.99.7",
+		"/Users/kammer/Downloads/Arquivos Bruno/10.99.99.6.txt",
+		"/Users/kammer/Downloads/Arquivos Bruno/10.99.99.5.txt",
+		"/Users/kammer/Downloads/Arquivos Bruno/10.99.99.4",
+		"/Users/kammer/Downloads/Arquivos Bruno/10.99.99.3",
+		"/Users/kammer/Downloads/Arquivos Bruno/Borda",
+		"/Users/kammer/Downloads/Arquivos Bruno/10.99.99.2.txt",
+		"/Users/kammer/Documents/Sites/novocad/cakephp/app/Controller/UsersController.php",
+		"/Users/kammer/Documents/Sites/novocad/cakephp/app/View/Users/dados.ctp",
+		"/Users/kammer/Documents/Sites/novocad/cakephp/app/Locale/por/LC_MESSAGES/default.po",
+		"/Users/kammer/Documents/Sites/novocad/cakephp/app/Console/Templates/NovoCAD/views/form.ctp",
+		"/Users/kammer/Documents/Sites/novocad/cakephp/app/Console/Templates/NovoCAD/actions/controller_actions.ctp",
+		"/Users/kammer/Documents/Sites/novocad/cakephp/app/Model/User.php",
+		"/Users/kammer/Documents/Sites/novocad/cakephp/app/View/Users/login.ctp",
+		"/Users/kammer/Documents/Sites/novocad/cakephp/app/Controller/AppController.php",
+		"/Users/kammer/Documents/Sites/novocad/cakephp/app/Console/Templates/NovoCAD/views/index.ctp",
+		"/Users/kammer/Documents/Sites/novocad/cakephp/app/Model/Menu-FUNCIONANDO_CORRETAMENTE.php",
+		"/Users/kammer/Documents/Sites/novocad/cakephp/app/Model/Menu.php",
+		"/Users/kammer/Documents/Sites/novocad/cakephp/app/Controller/MenusController-FUNCIONANDO_CORRETAMENTE.php",
+		"/Users/kammer/Documents/Sites/novocad/cakephp/app/webroot/css/login.css"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/kammer/Documents/Sites/novocad/cakephp/app/webroot"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"root",
+			"boleto",
+			"exibe",
+			"root",
+			"exibe",
+			"curv",
+			"footer",
+			"foot",
+			"bottom",
+			"form ",
+			"login-content",
+			"dash",
+			"main-menu",
+			"#main",
+			"main",
+			"section",
+			"body",
+			"#main",
+			"footer",
+			"ul",
+			"mini-charts",
+			"charts",
+			"zmdi",
+			"actions",
+			"body",
+			"card",
+			".card",
+			"uso-internet",
+			"card",
+			"card-header",
+			"actions",
+			"zmdi",
+			"toggle",
+			"switch",
+			"settings",
+			"material",
+			"codes[",
+			"traducao",
+			"codes[",
+			"weather-icon.wi",
+			"weather",
+			"fonts",
+			"weat",
+			"spark",
+			"4.jpg",
+			"2x.pn",
+			"svg",
+			"src",
+			"/fonts",
+			"font",
+			"php",
+			"ajaxform",
+			"action",
+			"Alex",
+			"href",
+			"src",
+			"href",
+			"src",
+			"contai",
+			"header",
+			"-bottom",
+			"margin-top",
+			"section",
+			"planos",
+			"right",
+			"planos",
+			"18px",
+			"top",
+			"container",
+			"header",
+			"3 meg",
+			"hospedagem",
+			".png",
+			"logo",
+			"/boleto",
+			"boleto",
+			"getloca",
+			"getLocation();",
+			"getco",
+			"getcoo",
+			"body",
+			"starttest",
+			"position",
+			"technicalDetails",
+			"updateprogress",
+			"UpdateProgress",
+			"startTestButton",
+			"color",
+			"background",
+			"body",
+			"backg",
+			".css",
+			"back",
+			"futuro",
+			"body",
+			"script",
+			"css",
+			"swf",
+			"http:",
+			"height",
+			".css",
+			"abcs",
+			"boleto",
+			"neolink",
+			"ABCS",
+			"pad",
+			"lpad",
+			"formata_numero",
+			"monta_linha_digitavel",
+			"fator_vencimento",
+			"nummoeda",
+			"num",
+			"moeda",
+			"_bb",
+			"banco",
+			"boleto_bb",
+			"$filtro",
+			"where",
+			"statusfiltro",
+			"tipoosfiltro",
+			"$tipo",
+			"aguardando ",
+			"db_",
+			"qtdereg",
+			"Total",
+			"total de",
+			"total de os",
+			"formata_tel"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			".uso-internet",
+			"uso-internet-header",
+			"uso-internet",
+			"traducao[",
+			"#dashboard-menu ul",
+			"#sidebar-nav #menu_lateral",
+			"div",
+			"../../"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "curso-laravel.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 309.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
