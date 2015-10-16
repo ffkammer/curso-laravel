@@ -4,6 +4,70 @@
 		"selected_items":
 		[
 			[
+				"Clie",
+				"ClientValidator"
+			],
+			[
+				"repos",
+				"repositories	(repository.php)"
+			],
+			[
+				"Clien",
+				"ClientValidator	(ClientValidator.php)"
+			],
+			[
+				"requi",
+				"required"
+			],
+			[
+				"add",
+				"address	(ModelFactory.php)"
+			],
+			[
+				"Lara",
+				"LaravelValidator"
+			],
+			[
+				"Vali",
+				"Validator	(app.php)"
+			],
+			[
+				"names",
+				"namespace	(Client.php)"
+			],
+			[
+				"name",
+				"namespace	(Client.php)"
+			],
+			[
+				"crea",
+				"create	(ModelFactory.php)"
+			],
+			[
+				"Cli",
+				"ClientRepository"
+			],
+			[
+				"Code",
+				"CodeProjectRepositoryProvider	(CodeProjectRepositoryProvider.php)"
+			],
+			[
+				"Reposi",
+				"RepositoryInterface"
+			],
+			[
+				"Repos",
+				"Repository	(app.php)"
+			],
+			[
+				"repo",
+				"repository	(ClientController.php)"
+			],
+			[
+				"Repo",
+				"Repositories	(repository.php)"
+			],
+			[
 				"padd",
 				"padding"
 			],
@@ -292,9 +356,21 @@
 	"command_palette":
 	{
 		"height": 392.0,
-		"last_filter": "",
+		"last_filter": "packa",
 		"selected_items":
 		[
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"package contro",
+				"Package Control: Install Package"
+			],
 			[
 				"rein",
 				"Indentation: Reindent Lines"
@@ -332,7 +408,7 @@
 				"Fetch: Package"
 			]
 		],
-		"width": 467.0
+		"width": 896.0
 	},
 	"console":
 	{
@@ -351,8 +427,41 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/Applications/XAMPP/htdocs/curso-laravel/app",
+		"/Applications/XAMPP/htdocs/curso-laravel/app/Services",
+		"/Applications/XAMPP/htdocs/curso-laravel/app/Validators",
+		"/Applications/XAMPP/htdocs/curso-laravel/config",
+		"/Applications/XAMPP/htdocs/curso-laravel/database",
+		"/Applications/XAMPP/htdocs/curso-laravel/database/factories",
+		"/Applications/XAMPP/htdocs/curso-laravel/database/migrations",
+		"/Applications/XAMPP/htdocs/curso-laravel/database/seeds"
+	],
 	"file_history":
 	[
+		"/Applications/XAMPP/htdocs/curso-laravel/app/Providers/CodeProjectRepositoryProvider.php",
+		"/Applications/XAMPP/htdocs/curso-laravel/app/Repositories/ClientRepository.php",
+		"/Applications/XAMPP/htdocs/curso-laravel/app/Repositories/ClientRepositoryEloquent.php",
+		"/Applications/XAMPP/htdocs/curso-laravel/app/Validators/ClientValidator.php",
+		"/Applications/XAMPP/htdocs/curso-laravel/composer.json",
+		"/Applications/XAMPP/htdocs/curso-laravel/config/app.php",
+		"/Applications/XAMPP/htdocs/curso-laravel/database/factories/ModelFactory.php",
+		"/Applications/XAMPP/htdocs/curso-laravel/config/repository.php",
+		"/Applications/XAMPP/htdocs/curso-laravel/app/Entities/Client.php",
+		"/Applications/XAMPP/htdocs/curso-laravel/app/Http/Controllers/ClientController.php",
+		"/Applications/XAMPP/htdocs/curso-laravel/app/Services/ClientService.php",
+		"/Users/kammer/Documents/Sites/ximano.com.br/inscr/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/curso-laravel/curso-laravel.sublime-project",
+		"/Applications/XAMPP/htdocs/curso-laravel/database/seeds/ClientTableSeeder.php",
+		"/Applications/XAMPP/htdocs/curso-laravel/app/Entities/User.php",
+		"/Applications/XAMPP/htdocs/curso-laravel/app/Client.php",
+		"/Applications/XAMPP/htdocs/curso-laravel/app/Http/Kernel.php",
+		"/Applications/XAMPP/htdocs/curso-laravel/app/Http/routes.php",
+		"/Applications/XAMPP/htdocs/curso-laravel/database/seeds/DatabaseSeeder.php",
+		"/Applications/XAMPP/htdocs/curso-laravel/database/migrations/2015_10_09_014552_create_clients_table.php",
+		"/Applications/XAMPP/htdocs/curso-laravel/.env",
+		"/Applications/XAMPP/htdocs/curso-laravel/app/User.php",
 		"/Users/kammer/Documents/Sites/central.neolink.com.br/painel.html",
 		"/Applications/XAMPP/xamppfiles/htdocs/laravel/resources/views/central.blade.php",
 		"/Applications/XAMPP/xamppfiles/htdocs/laravel/resources/views/layouts/central.blade.php",
@@ -458,33 +567,11 @@
 		"/Users/kammer/Documents/Sites/cad/paginas/menu_ini.php",
 		"/Users/kammer/Documents/Sites/cad/paginas/graf_concentradors.php",
 		"/Users/kammer/Documents/Sites/cad/paginas/scripts_ajax/rel_os_tipoostot.php",
-		"/Users/kammer/Documents/Sites/cad/CAD",
-		"/Controle de Banda Franquias",
-		"/Users/kammer/Downloads/Arquivos Bruno/10.99.99.8",
-		"/Users/kammer/Downloads/Arquivos Bruno/10.99.99.7",
-		"/Users/kammer/Downloads/Arquivos Bruno/10.99.99.6.txt",
-		"/Users/kammer/Downloads/Arquivos Bruno/10.99.99.5.txt",
-		"/Users/kammer/Downloads/Arquivos Bruno/10.99.99.4",
-		"/Users/kammer/Downloads/Arquivos Bruno/10.99.99.3",
-		"/Users/kammer/Downloads/Arquivos Bruno/Borda",
-		"/Users/kammer/Downloads/Arquivos Bruno/10.99.99.2.txt",
-		"/Users/kammer/Documents/Sites/novocad/cakephp/app/Controller/UsersController.php",
-		"/Users/kammer/Documents/Sites/novocad/cakephp/app/View/Users/dados.ctp",
-		"/Users/kammer/Documents/Sites/novocad/cakephp/app/Locale/por/LC_MESSAGES/default.po",
-		"/Users/kammer/Documents/Sites/novocad/cakephp/app/Console/Templates/NovoCAD/views/form.ctp",
-		"/Users/kammer/Documents/Sites/novocad/cakephp/app/Console/Templates/NovoCAD/actions/controller_actions.ctp",
-		"/Users/kammer/Documents/Sites/novocad/cakephp/app/Model/User.php",
-		"/Users/kammer/Documents/Sites/novocad/cakephp/app/View/Users/login.ctp",
-		"/Users/kammer/Documents/Sites/novocad/cakephp/app/Controller/AppController.php",
-		"/Users/kammer/Documents/Sites/novocad/cakephp/app/Console/Templates/NovoCAD/views/index.ctp",
-		"/Users/kammer/Documents/Sites/novocad/cakephp/app/Model/Menu-FUNCIONANDO_CORRETAMENTE.php",
-		"/Users/kammer/Documents/Sites/novocad/cakephp/app/Model/Menu.php",
-		"/Users/kammer/Documents/Sites/novocad/cakephp/app/Controller/MenusController-FUNCIONANDO_CORRETAMENTE.php",
-		"/Users/kammer/Documents/Sites/novocad/cakephp/app/webroot/css/login.css"
+		"/Users/kammer/Documents/Sites/cad/CAD"
 	],
 	"find":
 	{
-		"height": 23.0
+		"height": 35.0
 	},
 	"find_in_files":
 	{
@@ -499,6 +586,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"construct",
+			"Models",
 			"root",
 			"boleto",
 			"exibe",
@@ -624,9 +713,7 @@
 			"db_",
 			"qtdereg",
 			"Total",
-			"total de",
-			"total de os",
-			"formata_tel"
+			"total de"
 		],
 		"highlight": true,
 		"in_selection": false,
