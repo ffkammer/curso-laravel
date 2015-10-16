@@ -20,6 +20,10 @@ class Project extends Model
         return $this->belongsTo(User::class, 'owner_id');
     }
 
+    public function client() {
+        return $this->belongsTo(Client::class, 'client_id');
+    }
+
     public function notes() {
         return $this->hasMany(ProjectNote::class);
     }
