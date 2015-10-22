@@ -3,6 +3,7 @@
 namespace CodeProject\Http\Controllers;
 
 use CodeProject\Repositories\ProjectNoteRepository;
+use CodeProject\Services\ProjectNoteService;
 use Illuminate\Http\Request;
 use CodeProject\Http\Requests;
 
@@ -37,17 +38,7 @@ class ProjectNoteController extends Controller
      */
     public function index()
     {
-        //
-    }
-
-    /**
-     * Show the form for creating a new resource.
-     *
-     * @return \Illuminate\Http\Response
-     */
-    public function create()
-    {
-        //
+        return $this->repository->with(['project'])->all();
     }
 
     /**
@@ -58,7 +49,7 @@ class ProjectNoteController extends Controller
      */
     public function store(Request $request)
     {
-        //
+        return $this->service->create($request->all());
     }
 
     /**
@@ -69,18 +60,7 @@ class ProjectNoteController extends Controller
      */
     public function show($id)
     {
-        //
-    }
-
-    /**
-     * Show the form for editing the specified resource.
-     *
-     * @param  int  $id
-     * @return \Illuminate\Http\Response
-     */
-    public function edit($id)
-    {
-        //
+        return $this->repository->with(['project'])->find($id);
     }
 
     /**
@@ -92,7 +72,7 @@ class ProjectNoteController extends Controller
      */
     public function update(Request $request, $id)
     {
-        //
+        return $this->service->update($request->all(),$id);
     }
 
     /**
@@ -103,6 +83,6 @@ class ProjectNoteController extends Controller
      */
     public function destroy($id)
     {
-        //
+        $this->repository->delete($id);
     }
 }
